@@ -21,3 +21,15 @@ Items to scrape
 # In Part-1.py
 
 After running the code, we will get an Excel sheet of scrapped items.
+# Assignment-task2
+With the Product URL received in the above case, need to hit around 200 URL's, and fetch below items:
+
+• Description
+
+• ASIN
+
+• Product Description
+
+• Manufacturer
+
+The entire data needs to be exported in a CSV format.
