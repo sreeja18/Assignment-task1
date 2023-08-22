@@ -18,9 +18,6 @@ Items to scrape
 • Rating
 
 • Number of reviews
-# In Part-1.py
-
-After running the code, we will get an Excel sheet of scrapped items.
 # Assignment-task2
 With the Product URL received in the above case, need to hit around 200 URL's, and fetch below items:
 
@@ -33,3 +30,8 @@ With the Product URL received in the above case, need to hit around 200 URL's, a
 • Manufacturer
 
 The entire data needs to be exported in a CSV format.
+# In Task.py
+
+After running the code, we will get an Excel sheet of scrapped items.
+
+Using Product Urls along with other URLs on that site, we need to fetch information.
