@@ -18,6 +18,6 @@ Items to scrape
 • Rating
 
 • Number of reviews
-# In Assign.py
+# In Part-1.py
 
-After running the code, we will get Excel sheet of scrapped items.
+After running the code, we will get an Excel sheet of scrapped items.
